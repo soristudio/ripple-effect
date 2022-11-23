@@ -4,16 +4,27 @@
 
 
 
+##  DEMO
+
+
+[샘플 페이지](https://bi-cute.github.io/ripple/)
+
+
+
+
 # CDN
 
 아래 코드를 HTML문서의 head 내부에 붙여넣기만 하면 됩니다.
 
 **Style**
-`<link  rel="stylesheet"  href="https://cdn.jsdelivr.net/gh/Bi-Cute/ripple/ripple.css">`
+```
+<link  rel="stylesheet"  href="https://cdn.jsdelivr.net/gh/Bi-Cute/ripple/ripple.css">
+```
 
 **Script**
-`<script  src="https://cdn.jsdelivr.net/gh/Bi-Cute/ripple/ripple.js"  defer></script>`
-
+```
+<script  src="https://cdn.jsdelivr.net/gh/Bi-Cute/ripple/ripple.js"  defer></script>
+```
 
 
 ##  1.4KB 
@@ -24,8 +35,11 @@
 
 # 사용 방법
 
+
 원하는 요소에 `ripple` 클래스를 달아주세요
 
 - 효과는 기본적으로 투명도를 가진 옅은 회색의 원형으로 퍼져나갑니다.
 	> 조금 더 하얗게, 또는 조금 더 어둡게 효과를 변경하고 싶다면 `ripple` 클래스와 함께 `w-ripple`(흰색), 또는 `b-ripple`(검은색) 클래스를 추가할 수 있습니다.
 
+
+ㅇ
