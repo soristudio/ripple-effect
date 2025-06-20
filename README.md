@@ -18,12 +18,12 @@
 
 **Style**
 ```
-<link  rel="stylesheet"  href="https://cdn.jsdelivr.net/gh/Bi-Cute/ripple/ripple.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/soristudio/ripple-effect/ripple.css">
 ```
 
 **Script**
 ```
-<script  src="https://cdn.jsdelivr.net/gh/Bi-Cute/ripple/ripple.js"  defer></script>
+<script src="https://cdn.jsdelivr.net/gh/soristudio/ripple-effect@main/ripple.js" defer></script>
 ```
 
 
